@@ -3,7 +3,7 @@ import createTheme from "../../createTheme";
 const colors = {
   primary: "white",
   secondary: "#1F2022", // almost black w/ blueish tint
-  tertiary: "#fc300f", // bright red
+  tertiary: "#21759B", // blueish
   quaternary: "#CECECE" // pale gray
 };
 
@@ -34,7 +34,7 @@ const theme = createTheme(colors, {
         },
         h3: {
           fontSize: '3rem',
-          textTransform: 'uppercase'
+          textTransform: 'uppercase',
         },
         h4: {
           fontSize: '2.5rem',

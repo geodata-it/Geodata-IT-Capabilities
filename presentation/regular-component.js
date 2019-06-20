@@ -15,9 +15,9 @@ export default class RegularComponent extends React.Component {
   render() {
     return (
       <div>
-        <Heading>This is a normal react component</Heading>
+        <Heading>Placeholder for something cool</Heading>
         <br />
-        <Text>but you're adding it to your presentation in MDX</Text>
+        <Text>What will it be?</Text>
         <br />
         <Text>{this.state.count}</Text>
         <br />
