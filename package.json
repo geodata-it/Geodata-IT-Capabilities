@@ -1,9 +1,9 @@
 {
-  "homepage": "http://cherylhughey.github.io/Geodata-IT-Capabilities",
   "name": "spectacle-boilerplate",
   "version": "1.0.1",
   "description": "ReactJS Powered Presentation Framework",
   "main": "lib/index.js",
+  "homepage": "http://cherylhughey.github.io/Geodata-IT-Capabilities",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
